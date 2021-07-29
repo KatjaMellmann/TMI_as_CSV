@@ -24,5 +24,5 @@ It is not especially useful as a means to search for particular motifs. For that
 
 For other & advanced uses of the TMI, you might profit from
 
- > Thierry Declerck, Antónia Kostová, Lisa Schäfer: Linked Data Access to Folktales classified by Thompson's Motifs and Aarne-Thompson-Uther's Types. In: Rhian Lewis et al. (Eds.): Digital Humanities 2017 (DH2017), Montréal, August 8-11, 2017, Conference Abstracts. Montréal: ADHO, https://dh2017.adho.org/abstracts/465/465.pdf 
+ > [Thierry Declerck](https://github.com/MixalhsB), Antónia Kostová, Lisa Schäfer: Linked Data Access to Folktales classified by Thompson's Motifs and Aarne-Thompson-Uther's Types. In: Rhian Lewis et al. (Eds.): Digital Humanities 2017 (DH2017), Montréal, August 8-11, 2017, Conference Abstracts. Montréal: ADHO, https://dh2017.adho.org/abstracts/465/465.pdf 
 
