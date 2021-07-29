@@ -1,4 +1,4 @@
-# TMIasCSV
+# TMI as CSV
 Thompson's Motif-Index as csv file
 
     Source Information
