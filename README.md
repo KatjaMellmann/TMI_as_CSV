@@ -10,5 +10,7 @@ The primary publication the csv file refers to is:
 
  > Stith Thompson: Motif-Index of Folk-Literature. A Classification of Narrative Elements in Folktales, Ballads, Myths, Fables, Mediaeval Romances, Exempla, Fabliaux, Jest-Books, and Local Legends. Revised and enlarged ed. 6 vls. Bloomington, IN: Indiana University Press 1955-1958.
 
+For further information see https://github.com/KatjaMellmann/TMIasCSV/wiki/Source-Information.
+
 --------------------
 ![screenshot](https://github.com/KatjaMellmann/TMIasCSV/blob/screenshots/screenshots/TMI_screenshot_00.jpg)
