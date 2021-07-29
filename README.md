@@ -20,7 +20,7 @@ The main purpose of the csv file is to generate a reference table within a relat
 
 It is not especially useful as a means to search for particular motifs. For that purpose, one might rather use the [MOMFER - Meerten online motif finder](http://www.momfer.ml); cf.
 
- > Folgert Karsdorp, Marten van der Meulen, Theo Meder, Antal van den Bosch: MOMFER. A Search Engine of Thompson's Motif-Index of Folk Literature. In: Folklore 126 (2015), no. 1, 37–52. https://doi.org/10.1080/0015587X.2015.1006954 
+ > [Folgert Karsdorp](https://github.com/fbkarsdorp), Marten van der Meulen, Theo Meder, Antal van den Bosch: MOMFER. A Search Engine of Thompson's Motif-Index of Folk Literature. In: Folklore 126 (2015), no. 1, 37–52. https://doi.org/10.1080/0015587X.2015.1006954 
 
 For other & advanced uses of the TMI, you might profit from
 
