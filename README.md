@@ -1,5 +1,6 @@
 # Thompson's Motif-Index (TMI) as csv file
 
+The csv file is encoded as UTF-8 and deploys comma (,) as field separator and quotation marks (") as field surrounding.
 
 The file was originally published on [OSF](https://osf.io/xeb67/). Cite as:
 
