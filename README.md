@@ -6,7 +6,7 @@ It was originally published on [OSF](https://osf.io/xeb67/). Cite as:
 
  > Katja Mellmann: Thompson's Motif-Index as CSV File. Open Science Framework (OSF), 2020. DOI: 10.17605/OSF.IO/XEB67.
 
-![grafik]([https://github.com/KatjaMellmann/TMI_as_CSV/assets/85835484/c08ba886-8520-4cd4-9ddf-45818abb23eb](https://creativecommons.org/licenses/by-nc/4.0/))
+![[grafik](https://github.com/KatjaMellmann/TMI_as_CSV/assets/85835484/c08ba886-8520-4cd4-9ddf-45818abb23eb)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 The primary publication the csv file refers to is:
 
