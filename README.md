@@ -8,7 +8,7 @@ It was originally published on [OSF](https://osf.io/xeb67/). Cite as:
 
 The primary publication the csv file refers to is:
 
- > Stith Thompson: Motif-Index of Folk-Literature. A Classification of Narrative Elements in Folktales, Ballads, Myths, Fables, Mediaeval Romances, Exempla, Fabliaux, Jest-Books, and Local Legends. Revised and enlarged ed. 6 vls. Bloomington, IN: Indiana University Press 1955-1958.
+ > Stith Thompson: Motif-Index of Folk-Literature. A Classification of Narrative Elements in Folktales, Ballads, Myths, Fables, Mediaeval Romances, Exempla, Fabliaux, Jest-Books, and Local Legends. Revised and enlarged ed. 6 vols. Bloomington, IN: Indiana University Press 1955-1958.
 
 For further information see the [Wiki page on Source Information](https://github.com/KatjaMellmann/TMIasCSV/wiki/Source-Information).
 
@@ -24,5 +24,5 @@ It is not especially useful as a means to search for particular motifs. For that
 
 For other & advanced uses of the TMI, you might profit from
 
- > [Thierry Declerck](https://github.com/MixalhsB), Antónia Kostová, Lisa Schäfer: Linked Data Access to Folktales classified by Thompson's Motifs and Aarne-Thompson-Uther's Types. In: Rhian Lewis et al. (Eds.): Digital Humanities 2017 (DH2017), Montréal, August 8-11, 2017, Conference Abstracts. Montréal: ADHO, https://dh2017.adho.org/abstracts/465/465.pdf 
+ > Thierry Declerck [†], Antónia Kostová, Lisa Schäfer: Linked Data Access to Folktales classified by Thompson's Motifs and Aarne-Thompson-Uther's Types. In: Rhian Lewis et al. (Eds.): Digital Humanities 2017 (DH2017), Montréal, August 8-11, 2017, Conference Abstracts. Montréal: ADHO, https://dh2017.adho.org/abstracts/465/465.pdf 
 
